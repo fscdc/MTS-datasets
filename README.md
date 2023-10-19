@@ -14,7 +14,7 @@ this repo is use for datasets collection. if you want to use the dataset which i
 ## about request
 if you have some excellent MTS datasets with missing value , and you are willing to share , you can request at any time!
 
-Thank you for you share!
+Thank you for your share!
 
 ## contact
 please contact me with vx(starks888)Or email(fscdyx888@163.com)
